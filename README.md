@@ -5,5 +5,3 @@ An internal tool for Newmark brokers to browse site selection and location strat
 ## What it does
 
 Brokers land on a dashboard that showcases six service offerings (Labor Analytics, Market Trends, GIS Data Analysis, Risk Mitigation, Transportation & Emergency Planning, and Competitive Analysis). From there, they fill out a short form with client details and hit "Request client report," which drafts a pre-filled email in their default mail client.
-
-No backend, no auth, no database. Just a clean UI that gets out of the way.
